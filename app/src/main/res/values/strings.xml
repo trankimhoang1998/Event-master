@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Event</string>
+    <string name="title">Các kiểu lập trình sự kiện</string>
+    <string name="a">Số a:</string>
+    <string name="b">Số b:</string>
+    <string name="bt_tong">Tổng 2 số</string>
+
+</resources>
